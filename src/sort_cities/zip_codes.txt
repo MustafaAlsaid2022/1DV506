@@ -1,0 +1,7 @@
+90325; Umea
+96133; Boden
+23642; Hollviken
+35243; Vaxjo
+72211; Vasteros
+75242; Uppsala
+10569; Stockholm
